@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SansyHuman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "KAIST HAJE, 19', South Korea"
+  location         : "Daejeon, South Korea"
+  email            : "suboo0308@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
